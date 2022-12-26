@@ -1,0 +1,13 @@
+{
+  "name": "filmomania-hooks-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zardoy/filmomania-hooks-files.git",
+  "author": "Vitaly Turovsky <vital2580@icloud.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "esbuild": "^0.16.10",
+    "yeelight-awesome": "^1.1.0"
+  }
+}
