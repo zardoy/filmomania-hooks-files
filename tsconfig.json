@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "moduleResolution": "node",
+        "target": "ES5",
+        "outFile": "mpv.js",
+        "skipLibCheck": true
+    },
+    "include": [
+        "./mpvSource.js"
+    ]
+}

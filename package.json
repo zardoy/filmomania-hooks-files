@@ -7,7 +7,11 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "esbuild": "^0.16.10",
+    "mpv": "^1.0.0",
     "yeelight-awesome": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/mpv-script": "^0.32.2",
+    "esbuild": "^0.17.18"
   }
 }
